@@ -15,10 +15,10 @@ hey there!
 </div>
 
 ### :woman_technologist: About Me :
-- 👋 Hi, I’m **Vaibhav**
-- 👀 I’m interested in creating user-friendly **web-apps**
-- 🌱 I’m currently working on improving my proficiency in **JavaScript & MERN** stack
-- 📫 How to reach me? have you considered sending a white pigeon with a message on his leg?
+- 👋 Hi, I’m **Vaibhav**.
+- 👀 I’m interested in creating user-friendly **web-apps**!
+- 🌱 I’m currently working on improving my proficiency in **JavaScript & MERN** stack.
+- 📫 How to reach me? Have you considered sending a white pigeon with a message on his leg?
 
 ---
 
